@@ -7,7 +7,7 @@ div {
   border-radius: 50%; /* this makes the normally square div round */
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent;  /* the right side */
-   border-bottom-color: transparent; /* and the bottom of the circle */
+  border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
 #red {
